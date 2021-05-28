@@ -29,9 +29,12 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-This project was developed aiming to provide an object detector for ACRs (accessibility cyrb ramps) located in sidewalks covering Brazilian Cities (specifically São Paulo State). 
+This project was developed aiming to provide an object detector for ACRs (accessibility cyrb ramps) located in sidewalks covering Brazilian Cities (specifically São Paulo State).
+
 Initially, a CNN was trained at YOLOv4 Darknet, based on an *original dataset* of 477 labelled panoramas from Google Street View (1664x832 pixels), resulting in *1413* annotations of accessibility curb ramps (splited in 80% for train and 20% for validation). This training resulted in an Avarage Precision of 44.68% (IoU 50%).
+
 In order to improve the model, the final weights were trained based on a *tiled dataset* of 1095 images (416x416 pixels), totalizing *1413* labbed accessibility curb ramps (splited in 80% for train and 20% for validation). This training resulted in an Avarage Precision of 65.31%.
+
 The initial one used batch 64 and 16 subdivisions; the final one used batch 64 and 32 subdivision (the best possible within the limitations of free Google Colab).
 
 
