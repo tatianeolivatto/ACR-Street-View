@@ -14,10 +14,6 @@
     </li>
     <li>
       <a href="#getting-started">Getting Started</a>
-      <ul>
-        <li><a href="#prerequisites">Prerequisites</a></li>
-        <li><a href="#installation">Installation</a></li>
-      </ul>
     </li>
     <li><a href="#usage">Usage</a></li>
     <li><a href="#roadmap">Roadmap</a></li>
@@ -68,5 +64,6 @@ OBS.: *tiled dataset* was more appropriate as ACRs in Google Street View panoram
 <!-- GETTING STARTED -->
 ## Getting Started
 
-The Google Colab Python Notebook available contains all pre-requisites and installation required to run the ACR detector. 
+The Google Colab Python Notebook attached contains all pre-requisites and installation required to run the ACR detector, including best weights for ACR detection.
+
 
