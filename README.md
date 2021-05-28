@@ -1,4 +1,5 @@
-## ACR-Street-View
+<h1 align="center">ACR-Street View</h1>
+
 
 The code available refers to an ACR (accessible curb ramps) detector developed in YOLOv4 Darknet.
 
