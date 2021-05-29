@@ -75,6 +75,7 @@ Or if you want to download panoramas of a specific loacation of interest, you ca
 ## Acknowledgements
 
 This study is as part of a master's project developed at Federal University of São Carlos (Brazil), in the Graduate Program in Urban Engineering. 
+
 This study was financed in part by the Coordenação de Aperfeiçoamento de Pessoal de Nível Superior – Brasil (CAPES) – Finance Code 001.
 
 <!-- Citation -->
