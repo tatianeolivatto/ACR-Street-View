@@ -13,9 +13,8 @@
       </ul>
     </li>
     <li>
-      <a href="#getting-started">Getting Started</a>
+      <a href="#usage">Usage</a>
     </li>
-    <li><a href="#usage">Usage</a></li>
     <li><a href="#roadmap">Roadmap</a></li>
     <li><a href="#contributing">Contributing</a></li>
     <li><a href="#license">License</a></li>
@@ -62,8 +61,13 @@ https://app.roboflow.com/ds/gAqIbVSys4?key=KGKGyhUSMD
 OBS.: *tiled dataset* was more appropriate as ACRs in Google Street View panoramas canbe considered small objects.
 
 <!-- GETTING STARTED -->
-## Getting Started
+## Usage
 
 This [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1dR1dR0sl7MG6M-kXXT90JChwJQnYci32?usp=sharing) Python Notebook contains all pre-requisites and installation required to run the ACR detector, including best weights for ACR detection. Follow its steps to get accessibility curb ramps detections in Google Street Vire panoramas.
+
+## Download panorama samples
+
+This [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1dR1dR0sl7MG6M-kXXT90JChwJQnYci32?usp=sharing) Python Notebook already contains 3 panoramas for testing detections.
+If you want to download your own panoramas, of a specific loacation of interest, you can use this tool [![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg)](https://github.com/robolyst/streetview).
 
 
