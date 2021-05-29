@@ -68,7 +68,7 @@ This [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)
 ## Download panorama samples
 
 This Google Colab Python Notebook above already contains 3 panoramas for testing detections.
-If you want to download your own panoramas, manually, you can visit [![Generic badge](https://img.shields.io/badge/Google Maps-<STATUS>-<COLOR>.svg)](https://www.google.com.br/maps).
+If you want to download your own panoramas, manually, you can visit [![Generic badge](https://img.shields.io/badge/<Google-Maps>-<STATUS>-<COLOR>.svg)](https://www.google.com.br/maps).
 Or if you want to download panoramas of a specific loacation of interest, you can use this tool [![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg)](https://github.com/robolyst/streetview).
 
 
