@@ -15,11 +15,10 @@
     <li>
       <a href="#usage">Usage</a>
     </li>
-    <li><a href="#roadmap">Roadmap</a></li>
-    <li><a href="#contributing">Contributing</a></li>
-    <li><a href="#license">License</a></li>
-    <li><a href="#contact">Contact</a></li>
+    <li><a href="#Download Panorama Samples">Download Panorama Samples</a></li>
     <li><a href="#acknowledgements">Acknowledgements</a></li>
+    <li><a href="#Citation">Citation</a></li>
+    <li><a href="#contact">Contact</a></li>
   </ol>
 </details>
 
@@ -60,15 +59,33 @@ https://app.roboflow.com/ds/gAqIbVSys4?key=KGKGyhUSMD
 
 OBS.: *tiled dataset* was more appropriate as ACRs in Google Street View panoramas canbe considered small objects.
 
-<!-- GETTING STARTED -->
+<!-- USAGE -->
 ## Usage
 
 This [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1dR1dR0sl7MG6M-kXXT90JChwJQnYci32?usp=sharing) Python Notebook contains all pre-requisites and installation required to run the ACR detector, including best weights for ACR detection. Follow its steps to get accessibility curb ramps detections in Google Street Vire panoramas.
 
-## Download panorama samples
+<!-- PANORAMA SAMPLES -->
+## Download Panorama Samples
 
 This Google Colab Python Notebook above already contains 3 panoramas for testing detections.
 If you want to download your own panoramas, manually, you can visit [![Generic badge](https://img.shields.io/badge/GoogleMaps-StreetView-<COLOR>.svg)](https://www.google.com.br/maps).
 Or if you want to download panoramas of a specific loacation of interest, you can use this tool [![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg)](https://github.com/robolyst/streetview).
 
+<!-- Acknowledgements -->
+## Acknowledgements
 
+This study is as part of a master's project developed at Federal University of São Carlos (Brazil), in the Graduate Program in Urban Engineering. 
+This study was financed in part by the Coordenação de Aperfeiçoamento de Pessoal de Nível Superior – Brasil (CAPES) – Finance Code 001.
+
+<!-- Citation -->
+## Citation
+
+Soon.
+
+<!-- Contact -->
+## Contact
+
+tatianeolivatto@yahoo.com.br
+tatianeolivatto@ufscar.br
+
+Soon.
