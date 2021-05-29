@@ -64,8 +64,6 @@ OBS.: *tiled dataset* was more appropriate as ACRs in Google Street View panoram
 <!-- GETTING STARTED -->
 ## Getting Started
 
-The Google Colab Python Notebook attached contains all pre-requisites and installation required to run the ACR detector, including best weights for ACR detection.
-
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1dR1dR0sl7MG6M-kXXT90JChwJQnYci32?usp=sharing)
+This [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1dR1dR0sl7MG6M-kXXT90JChwJQnYci32?usp=sharing) Python Notebook contains all pre-requisites and installation required to run the ACR detector, including best weights for ACR detection. Follow its steps to get accessibility curb ramps detections in Google Street Vire panoramas.
 
 
