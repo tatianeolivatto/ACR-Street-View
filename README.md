@@ -66,7 +66,7 @@ OBS.: *tiled dataset* was more appropriate as ACRs in Google Street View panoram
 
 The Google Colab Python Notebook attached contains all pre-requisites and installation required to run the ACR detector, including best weights for ACR detection.
 
-[![Open In Colab](https://colab.research.google.com/drive/1dR1dR0sl7MG6M-kXXT90JChwJQnYci32?usp=sharing)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1dR1dR0sl7MG6M-kXXT90JChwJQnYci32?usp=sharing)
 https://colab.research.google.com/drive/1dR1dR0sl7MG6M-kXXT90JChwJQnYci32?usp=sharing
 
 
