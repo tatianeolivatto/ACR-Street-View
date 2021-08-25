@@ -85,6 +85,8 @@ This study was financed in part by the Coordenação de Aperfeiçoamento de Pess
 ### Image datasets and trained weights:
 [![DOI](https://zenodo.org/badge/371502907.svg)](https://zenodo.org/badge/latestdoi/371502907)
 
+Bibtex: @misc{Tati2021, author = {Tatiane Ferreira Olivatto}, title = {ACR-Street-View}, url = {https://github.com/tatianeolivatto/ACR-Street-View.git}, doi = {10.5281/zenodo.5256106}, year = {2021}}
+
 ### Methodology and Results:
 Soon.
 
