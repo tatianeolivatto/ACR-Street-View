@@ -81,7 +81,11 @@ This study was financed in part by the Coordenação de Aperfeiçoamento de Pess
 <!-- Citation -->
 ## Citation
 
+###Image datasets and trained weights:
 [![DOI](https://zenodo.org/badge/371502907.svg)](https://zenodo.org/badge/latestdoi/371502907)
+
+###Methodology and Results:
+Soon.
 
 <!-- Contact -->
 ## Contact
