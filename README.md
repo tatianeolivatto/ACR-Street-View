@@ -49,7 +49,7 @@ https://app.roboflow.com/ds/5Zc6pHfJ7S?key=XLfRLnustB
 
 In order to improve the model, the final weights were trained based on a *tiled dataset* of 1095 images (416x416 pixels), totalizing *1413* labbed accessibility curb ramps (splited in 80% for train and 20% for validation). This training resulted in an Avarage Precision of 65.31%.
 
-This training batch 64 and 16 subdivisions (the best possible within the limitations of free Google Colab), and pre-trained convolutional weights available at: https://github.com/AlexeyAB/darknet/releases/download/darknet_yolo_v3_optimal/yolov4.conv.137.
+This training batch 64 and 32 subdivisions (the best possible within the limitations of free Google Colab), and pre-trained convolutional weights available at: https://github.com/AlexeyAB/darknet/releases/download/darknet_yolo_v3_optimal/yolov4.conv.137.
 
 Paste this snippet into a notebook from our model library to download and unzip your dataset:
 !curl -L "https://app.roboflow.com/ds/gAqIbVSys4?key=KGKGyhUSMD" > roboflow.zip; unzip roboflow.zip; rm roboflow.zip
