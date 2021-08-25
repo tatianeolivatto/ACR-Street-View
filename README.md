@@ -25,7 +25,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-This project was developed aiming to provide an object detector for ACRs (accessibility cyrb ramps) located in sidewalks covering Brazilian Cities (specifically São Paulo State).
+This project was developed aiming to provide an object detector for ACRs (accessibility curb ramps) located in sidewalks covering Brazilian Cities (specifically São Paulo State).
 
 ## Image Datasets used for training
 
@@ -42,7 +42,7 @@ This training used batch 64 and 16 subdivisions (the best possible within the li
 Paste this snippet into a notebook from our model library to download and unzip your dataset:
 !curl -L "https://app.roboflow.com/ds/5Zc6pHfJ7S?key=XLfRLnustB" > roboflow.zip; unzip roboflow.zip; rm roboflow.zip
 
-The direct link to download your zip file is:
+The direct link to download our zip file is:
 https://app.roboflow.com/ds/5Zc6pHfJ7S?key=XLfRLnustB
 
 ### Tiled Dataset
@@ -54,7 +54,7 @@ This training batch 64 and 16 subdivisions (the best possible within the limitat
 Paste this snippet into a notebook from our model library to download and unzip your dataset:
 !curl -L "https://app.roboflow.com/ds/gAqIbVSys4?key=KGKGyhUSMD" > roboflow.zip; unzip roboflow.zip; rm roboflow.zip
 
-The direct link to download your zip file is:
+The direct link to download our zip file is:
 https://app.roboflow.com/ds/gAqIbVSys4?key=KGKGyhUSMD
 
 OBS.: *tiled dataset* was more appropriate as ACRs in Google Street View panoramas canbe considered small objects.
