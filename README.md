@@ -81,7 +81,7 @@ This study was financed in part by the Coordenação de Aperfeiçoamento de Pess
 <!-- Citation -->
 ## Citation
 
-Soon.
+[![DOI](https://zenodo.org/badge/371502907.svg)](https://zenodo.org/badge/latestdoi/371502907)
 
 <!-- Contact -->
 ## Contact
